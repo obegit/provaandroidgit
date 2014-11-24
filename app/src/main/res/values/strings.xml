@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">ProvaGithub</string>
-    <string name="hello_world">Prova su github 1</string>
+    <string name="hello_world">Prova su github 2</string>
     <string name="action_settings">Settings</string>
 
 </resources>
